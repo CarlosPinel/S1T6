@@ -23,9 +23,9 @@ package N301;
 public class Smartphone implements Telefono{
 	
 	//Attributes
-	String marca;
-	String modelo;
-	int numero;
+	private String marca;
+	private String modelo;
+	private int numero;
 	
 	//Constructor
 	public Smartphone() {};

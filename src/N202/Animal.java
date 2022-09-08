@@ -3,10 +3,10 @@ package N202;
 public class Animal {
 
 	//Attributes
-	String nombre;
-	int patas;
-	String clase;
-	String alimentacion;
+	private String nombre;
+	private int patas;
+	private String clase;
+	private String alimentacion;
 	
 	//constructor
 	public Animal(String nombre, int patas, String clase, String alimentacion) {
